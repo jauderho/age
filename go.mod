@@ -4,8 +4,8 @@ go 1.17
 
 require (
 	filippo.io/edwards25519 v1.0.0-rc.1
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
+	golang.org/x/crypto v0.31.0
+	golang.org/x/term v0.27.0
 )
 
-require golang.org/x/sys v0.0.0-20210903071746-97244b99971b // indirect
+require golang.org/x/sys v0.28.0 // indirect
